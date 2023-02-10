@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/map"
+    app:startDestination="@id/home">
+
+    <fragment
+        android:id="@+id/home"
+        android:name="com.example.bemyhelper.MapManagerFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+
+    <fragment
+        android:id="@+id/menuProfile"
+        android:name="com.example.bemyhelper.ProfileFragment"
+        android:label="Profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/menuNotifications"
+        android:name="com.example.bemyhelper.NotificationsFragment"
+        android:label="Notifications"
+        tools:layout="@layout/fragment_notifications" />
+    <fragment
+        android:id="@+id/menuSettings"
+        android:name="com.example.bemyhelper.SettingsFragment"
+        android:label="Settings"
+        tools:layout="@layout/fragment_settings" />
+
+    <fragment
+        android:id="@+id/menuHelpHistory"
+        android:name="com.example.bemyhelper.HelpHistoryFragment"
+        android:label="Help History"
+        tools:layout="@layout/fragment_help_history" />
+
+    <fragment
+        android:id="@+id/menuChangeTypeOfUser"
+        android:name="com.example.bemyhelper.ChangeTypeOfUserFragment"
+        android:label="Change Type Of User"
+        tools:layout="@layout/fragment_change_type_of_user" />
+
+    <fragment
+        android:id="@+id/logOut"
+        android:name="com.example.bemyhelper.logOutFragment"
+        android:label="Logout"
+        tools:layout="@layout/fragment_log_out" />
+
+    <fragment
+        android:id="@+id/menuAbout"
+        android:name="com.example.bemyhelper.AboutFragment"
+        android:label="About"
+        tools:layout="@layout/fragment_about" />
+
+
+
+</navigation>

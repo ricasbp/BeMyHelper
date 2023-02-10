@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">465515902238-b7kv5e3ko04m4u5l5vo6tl9kig7i3utd.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">465515902238</string>
+    <string name="google_api_key" translatable="false">AIzaSyB95D6_TpVzaDhzau0Zg3dkT6eq1uC1PyQ</string>
+    <string name="google_app_id" translatable="false">1:465515902238:android:d89399780047281b63c50f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB95D6_TpVzaDhzau0Zg3dkT6eq1uC1PyQ</string>
+    <string name="google_storage_bucket" translatable="false">bemyhelper-de977.appspot.com</string>
+    <string name="project_id" translatable="false">bemyhelper-de977</string>
+</resources>

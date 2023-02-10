@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="PrimaryColor">#5DB075</color>
+    <color name="black">#FF000000</color>
+    <color name="gray_400">#FFBDBDBD</color>
+    <color name="gray_600">#FF757575</color>
+    <color name="light_blue">#5198B8</color>
+    <color name="light_blue_400">#FF29B6F6</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red">#FF0000</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="wrongLogin">#FF0000</color>
+    <item name="LinearLayoutCheckBoxes" type="id"/>
+    <item name="ScrollViewButtons" type="id"/>
+    <item name="checkBoxDificuldade1" type="id"/>
+    <item name="checkBoxDificuldade2" type="id"/>
+    <item name="checkBoxDificuldade3" type="id"/>
+    <item name="checkBoxDificuldade4" type="id"/>
+    <item name="checkBoxDificuldade5" type="id"/>
+    <item name="checkBoxDificuldade6" type="id"/>
+    <item name="checkBoxDificuldade7" type="id"/>
+    <item name="checkBoxDificuldade8" type="id"/>
+    <item name="checkBoxDificuldade9" type="id"/>
+    <item name="checkBoxNao" type="id"/>
+    <item name="checkBoxSim" type="id"/>
+    <item name="editTextTextPersonName3" type="id"/>
+    <item name="textView9" type="id"/>
+    <string name="app_name">BeMyHelper</string>
+    <string name="default_web_client_id" translatable="false">465515902238-b7kv5e3ko04m4u5l5vo6tl9kig7i3utd.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">465515902238</string>
+    <string name="google_api_key" translatable="false">AIzaSyB95D6_TpVzaDhzau0Zg3dkT6eq1uC1PyQ</string>
+    <string name="google_app_id" translatable="false">1:465515902238:android:d89399780047281b63c50f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB95D6_TpVzaDhzau0Zg3dkT6eq1uC1PyQ</string>
+    <string name="google_storage_bucket" translatable="false">bemyhelper-de977.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="project_id" translatable="false">bemyhelper-de977</string>
+    <style name="BottomSheetDialogTheme" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/BottomSheetStyle</item>
+    </style>
+    <style name="BottomSheetStyle" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@android:color/transparent</item>
+
+    </style>
+    <style name="Theme.BeMyHelper" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/PrimaryColor</item>
+        <item name="colorPrimaryVariant">@color/PrimaryColor</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/PrimaryColor</item>
+        <item name="colorSecondaryVariant">@color/PrimaryColor</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+    <style name="Widget.Theme.BeMyHelper.MyView" parent="">
+        <item name="android:background">@color/gray_400</item>
+        <item name="exampleColor">@color/light_blue_400</item>
+    </style>
+    <style name="roundButton" parent="">
+        <item name="cornerFamily">rounded </item>
+        <item name="cornerSize">20dp</item>
+        <item name="color">#5DB075</item>
+
+
+    </style>
+    <declare-styleable name="help_request_alert_user">
+        <attr format="string" name="exampleString"/>
+        <attr format="dimension" name="exampleDimension"/>
+        <attr format="color" name="exampleColor"/>
+        <attr format="color|reference" name="exampleDrawable"/>
+    </declare-styleable>
+</resources>

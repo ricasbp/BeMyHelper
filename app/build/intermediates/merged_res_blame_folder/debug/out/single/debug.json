@@ -1,0 +1,338 @@
+[
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/layout_activity_main.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.bemyhelper.app-pngs-48:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/layout_fragment_login_signup.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/layout/fragment_login_signup.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/drawable_bottom_sheet_background.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/drawable/bottom_sheet_background.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/drawable_ic_baseline_medical_services_24.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/drawable/ic_baseline_medical_services_24.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/drawable_collection.png.flat",
+        "source": "com.example.bemyhelper.app-main-55:/drawable/collection.png"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/drawable_ic_baseline_close_24.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/drawable/ic_baseline_close_24.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/drawable_bemyhelperlogo.png.flat",
+        "source": "com.example.bemyhelper.app-main-55:/drawable/bemyhelperlogo.png"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/layout_fragment_settings.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.bemyhelper.app-debug-54:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/layout_layout_help_request_alert_helper.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/layout/layout_help_request_alert_helper.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.bemyhelper.app-debug-54:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/layout_fragment_ask_for_assistance.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/layout/fragment_ask_for_assistance.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.bemyhelper.app-debug-54:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/layout_fragment_login.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.bemyhelper.app-debug-54:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.bemyhelper.app-debug-54:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/layout_fragment_change_type_of_user.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/layout/fragment_change_type_of_user.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/drawable_black_line_button.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/drawable/black_line_button.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/drawable_notifications.png.flat",
+        "source": "com.example.bemyhelper.app-main-55:/drawable/notifications.png"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/drawable_black_line_foreground.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/drawable/black_line_foreground.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.bemyhelper.app-debug-54:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/drawable_my_buttons_red.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/drawable/my_buttons_red.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/layout_layout_bottom_sheet.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/layout/layout_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/xml_backup_rules.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/layout_fragment_about.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/layout/fragment_about.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/drawable_ic_baseline_warning_24.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/drawable/ic_baseline_warning_24.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/drawable_support.png.flat",
+        "source": "com.example.bemyhelper.app-main-55:/drawable/support.png"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/layout_fragment_notifications.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/layout_fragment_request_details.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/layout/fragment_request_details.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/layout_fragment_home.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/layout_fragment_helper_profile.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/layout/fragment_helper_profile.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/drawable_inbox.png.flat",
+        "source": "com.example.bemyhelper.app-main-55:/drawable/inbox.png"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.bemyhelper.app-debug-54:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/drawable_orders.png.flat",
+        "source": "com.example.bemyhelper.app-main-55:/drawable/orders.png"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/layout_activity_splash.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/layout_sample_disability_element_add.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/layout/sample_disability_element_add.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/drawable-v24_be_my_helper.png.flat",
+        "source": "com.example.bemyhelper.app-main-55:/drawable-v24/be_my_helper.png"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/menu_navigation_menu.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/menu/navigation_menu.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.bemyhelper.app-debug-54:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.bemyhelper.app-debug-54:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/drawable_botaovoltar.png.flat",
+        "source": "com.example.bemyhelper.app-debug-54:/drawable/botaovoltar.png"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/drawable_profile.png.flat",
+        "source": "com.example.bemyhelper.app-main-55:/drawable/profile.png"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/layout_layout_help_request_alert_user.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/layout/layout_help_request_alert_user.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/layout_layout_navigation_header.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/layout/layout_navigation_header.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.bemyhelper.app-debug-54:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.bemyhelper.app-debug-54:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/layout_fragment_help_review.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/layout/fragment_help_review.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/drawable_inputform.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/drawable/inputform.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/navigation_main.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/navigation/main.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.bemyhelper.app-debug-54:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/layout_profile_helper_preview.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/layout/profile_helper_preview.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/layout_sample_disability_element.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/layout/sample_disability_element.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.bemyhelper.app-debug-54:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/drawable_settings.png.flat",
+        "source": "com.example.bemyhelper.app-main-55:/drawable/settings.png"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/drawable_livepin.png.flat",
+        "source": "com.example.bemyhelper.app-debug-54:/drawable/livepin.png"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/layout_fragment_signup.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/layout/fragment_signup.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/drawable_profile_background.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/drawable/profile_background.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/layout_fragment_profile.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.bemyhelper.app-debug-54:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/layout_fragment_map.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/layout/fragment_map.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/drawable_ic_baseline_logout_24.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/drawable/ic_baseline_logout_24.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/drawable-v24_hamburguer_button.png.flat",
+        "source": "com.example.bemyhelper.app-main-55:/drawable-v24/hamburguer_button.png"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/drawable_star_foreground.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/drawable/star_foreground.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/drawable_rounded_frame_layout.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/drawable/rounded_frame_layout.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/drawable-v24_my_buttons_green.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/drawable-v24/my_buttons_green.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/drawable_profile_background_navigation.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/drawable/profile_background_navigation.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.bemyhelper.app-debug-54:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/drawable-v24_old_man.png.flat",
+        "source": "com.example.bemyhelper.app-main-55:/drawable-v24/old_man.png"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/layout_fragment_help_history.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/layout/fragment_help_history.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/layout_fragment_home_helpers.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/layout/fragment_home_helpers.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/layout_fragment_confirm_help_request.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/layout/fragment_confirm_help_request.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/drawable_ronaldo.jpg.flat",
+        "source": "com.example.bemyhelper.app-main-55:/drawable/ronaldo.jpg"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/drawable_ic_baseline_menu_24.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/drawable/ic_baseline_menu_24.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/drawable_about.png.flat",
+        "source": "com.example.bemyhelper.app-main-55:/drawable/about.png"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/drawable_map.png.flat",
+        "source": "com.example.bemyhelper.app-main-55:/drawable/map.png"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/layout_layout_marker_user_request.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/layout/layout_marker_user_request.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.bemyhelper.app-debug-54:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.bemyhelper.app-debug-54:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/drawable_my_buttons.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/drawable/my_buttons.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.bemyhelper.app-debug-54:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/layout_fragment_log_out.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/layout/fragment_log_out.xml"
+    },
+    {
+        "merged": "com.example.bemyhelper.app-merged_res-53:/layout_fragment_map_manager.xml.flat",
+        "source": "com.example.bemyhelper.app-main-55:/layout/fragment_map_manager.xml"
+    }
+]

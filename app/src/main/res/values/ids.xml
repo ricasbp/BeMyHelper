@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="checkBoxSim" type="id" />
+    <item name="ScrollViewButtons" type="id" />
+    <item name="editTextTextPersonName3" type="id" />
+    <item name="LinearLayoutCheckBoxes" type="id" />
+    <item name="checkBoxDificuldade1" type="id" />
+    <item name="checkBoxDificuldade2" type="id" />
+    <item name="checkBoxDificuldade3" type="id" />
+    <item name="checkBoxDificuldade4" type="id" />
+    <item name="checkBoxDificuldade5" type="id" />
+    <item name="checkBoxDificuldade6" type="id" />
+    <item name="checkBoxDificuldade7" type="id" />
+    <item name="checkBoxDificuldade8" type="id" />
+    <item name="checkBoxDificuldade9" type="id" />
+    <item name="textView9" type="id" />
+    <item name="checkBoxNao" type="id" />
+</resources>

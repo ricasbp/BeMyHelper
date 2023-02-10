@@ -1,0 +1,9 @@
+com.example.bemyhelper.test.app-core-1.5.0-0 C:\Users\Ricas\.gradle\caches\transforms-3\eae2ffc2ce0834c2a74c1d976cdf742c\transformed\core-1.5.0\res
+com.example.bemyhelper.test.app-annotation-experimental-1.1.0-1 C:\Users\Ricas\.gradle\caches\transforms-3\ebc5cdc968831466331bfc76f957101c\transformed\annotation-experimental-1.1.0\res
+com.example.bemyhelper.test.app-androidTest-2 C:\Users\Ricas\Desktop\Mestrado\CM\Projeto\computacao-movel\app\build\generated\res\resValues\androidTest\debug
+com.example.bemyhelper.test.app-androidTest-3 C:\Users\Ricas\Desktop\Mestrado\CM\Projeto\computacao-movel\app\build\generated\res\rs\androidTest\debug
+com.example.bemyhelper.test.app-mergeDebugAndroidTestResources-4 C:\Users\Ricas\Desktop\Mestrado\CM\Projeto\computacao-movel\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.bemyhelper.test.app-mergeDebugAndroidTestResources-5 C:\Users\Ricas\Desktop\Mestrado\CM\Projeto\computacao-movel\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.bemyhelper.test.app-merged_res-6 C:\Users\Ricas\Desktop\Mestrado\CM\Projeto\computacao-movel\app\build\intermediates\merged_res\debugAndroidTest
+com.example.bemyhelper.test.app-androidTest-7 C:\Users\Ricas\Desktop\Mestrado\CM\Projeto\computacao-movel\app\src\androidTest\res
+com.example.bemyhelper.test.app-androidTestDebug-8 C:\Users\Ricas\Desktop\Mestrado\CM\Projeto\computacao-movel\app\src\androidTestDebug\res

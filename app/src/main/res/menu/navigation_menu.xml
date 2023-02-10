@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id = "@+id/map"
+        android:icon = '@drawable/map'
+        android:title = 'Map'
+        android:iconTint="@color/white"/>
+
+
+    <item android:id = "@+id/menuProfile"
+        android:icon = '@drawable/profile'
+        android:title = 'Profile' />
+
+    <item android:id = "@+id/menuNotifications"
+        android:icon = '@drawable/notifications'
+        android:title = 'Notifications' />
+
+    <item android:id = "@+id/menuHelpHistory"
+        android:icon = '@drawable/orders'
+        android:title = 'Help History' />
+
+
+    <item android:title = "Others">
+        <menu>
+
+            <item android:id = "@+id/menuChangeTypeOfUser"
+                android:icon = '@drawable/ic_baseline_medical_services_24'
+                android:title = 'Change Type of User' />
+
+            <item android:id = "@+id/menuSettings"
+                android:icon = '@drawable/settings'
+                android:title = 'Settings' />
+
+
+            <item android:id = "@+id/menuAbout"
+                android:icon = '@drawable/about'
+                android:title = 'About' />
+
+            <item android:id = "@+id/logOut"
+                android:icon = '@drawable/ic_baseline_logout_24'
+                android:title = 'Sign out' />
+
+        </menu>
+
+    </item>
+
+
+</menu>

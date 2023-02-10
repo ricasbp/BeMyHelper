@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "465515902238",
+    "project_id": "bemyhelper-de977",
+    "storage_bucket": "bemyhelper-de977.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465515902238:android:d89399780047281b63c50f",
+        "android_client_info": {
+          "package_name": "com.example.bemyhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465515902238-b7kv5e3ko04m4u5l5vo6tl9kig7i3utd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB95D6_TpVzaDhzau0Zg3dkT6eq1uC1PyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465515902238-b7kv5e3ko04m4u5l5vo6tl9kig7i3utd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
